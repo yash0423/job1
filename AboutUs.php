@@ -8,7 +8,7 @@
 
   
     
-    <title>JOB PORTAL BY JITESH</title>
+    <title>JOB PORTAL BY YASH</title>
     <meta name="description" content="..." />
     <meta name="keywords" content="..." />
     
